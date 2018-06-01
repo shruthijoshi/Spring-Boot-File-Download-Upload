@@ -1,0 +1,13 @@
+com\webservice\filedownload\controller\DownloadFileController.class
+com\webservice\filedownload\SpringBootFileDownloadApplication.class
+com\webservice\filedownload\controller\UploadFileController.class
+com\webservice\filedownload\exception\MyFileNotFoundException.class
+com\webservice\filedownload\service\FileStorageService.class
+com\webservice\filedownload\filestoragemodel\FileStorage.class
+com\webservice\filedownload\ServletInitializer.class
+META-INF\spring-configuration-metadata.json
+com\webservice\filedownload\exception\FileUploadedSuccessException.class
+com\webservice\filedownload\exception\FileStorageException.class
+com\webservice\filedownload\exception\SolarPVResponseEntityExceptionHandler.class
+com\webservice\filedownload\exception\ExceptionResponse.class
+com\webservice\filedownload\exception\UploadFileResponse.class

@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.webservice.filedownload.filestoragemodel.FileStorage",
+      "name": "file",
+      "type": "com.webservice.filedownload.filestoragemodel.FileStorage"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.webservice.filedownload.filestoragemodel.FileStorage",
+      "name": "file.upload-file",
+      "type": "java.lang.String"
+    }
+  ]
+}
